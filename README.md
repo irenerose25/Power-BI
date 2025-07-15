@@ -1,6 +1,9 @@
 
 Banking and  Customer Transaction Analysis
 
+<img width="1329" height="743" alt="Screenshot 2025-06-02 113143" src="https://github.com/user-attachments/assets/72676ac5-30ce-43c4-aae8-39769b9a519a" />
+
+
 🔍 Purpose
 The purpose of this project is to derive actionable insights from synthetic banking data using Power BI. The analysis aims to support strategic decisions in customer segmentation, investment behavior, and financial performance across branches.
 
